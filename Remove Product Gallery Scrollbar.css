@@ -1,0 +1,5 @@
+/*--REMOVE PRODUCT GALLERY SCROLLBAR--*/
+
+.vertical-thumbnails {
+overflow:hidden !important;
+}
