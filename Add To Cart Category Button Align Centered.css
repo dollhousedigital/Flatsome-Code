@@ -1,0 +1,13 @@
+.woocommerce ul.products li.product, .woocommerce-page ul.products li.product {min-height: 500px !important; margin-bottom:10px; }
+ul.products li.product a.button {position: absolute !important; bottom: 500px; }
+
+.box-text {
+   min-height: 145px;
+   position: relative;
+}
+.add-to-cart-button {
+    position: absolute;
+    top: 90px;
+    width: 95%;
+    display: block;
+}
